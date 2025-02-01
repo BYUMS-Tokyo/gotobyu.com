@@ -52,7 +52,7 @@
     "@next/bundle-analyzer": "^14.2.18",
     "@next/env": "^14.2.18",
     "@next/eslint-plugin-next": "^14.2.5",
-    "@playwright/test": "^1.43.1",
+    "@playwright/test": "^1.50.1",
     "@storybook/addon-essentials": "^8.4.5",
     "@storybook/nextjs": "^8.4.5",
     "@storybook/react": "^8.4.5",
